@@ -1,7 +1,7 @@
 # Tableau Interactive Dashboard: Social Indicators Analysis
 
 ## Description
-This project presents an interactive dashboard created in Tableau to analyze key social indicators, such as mortality rate, total population, and life expectancy. It uses data from different countries between the years 2012 and 2022 to provide a detailed view of global and regional trends.
+This project presents an interactive dashboard created in Tableau to analyze key social indicators, such as mortality rate and life expectancy. It uses data from different countries between the years 2012 and 2022 to provide a detailed view of global and regional trends.
 
 ## Dashboard content
 - **Mortality rate**: Visualization of mortality rate over the years in different countries.
